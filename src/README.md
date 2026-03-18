@@ -58,8 +58,13 @@ O código busca informações específicas nesses diretórios. Sem eles, o agent
 1. **Crie as pastas:** Certifique-se de criar `data` e `src` no menu lateral.
    
 3. **Upload:** Adicione os arquivos JSON e CSV na pasta `data` para que o agente funcione com seus dados reais.
-4. 
    <img width="482" height="601" alt="image" src="https://github.com/user-attachments/assets/409d6296-9d5c-4362-bd4d-acedc5edb0e0" />
+4. **Codigo app.py: ** é criado o arquivo automaticamente quando usado na celula 3.
+   <img width="395" height="593" alt="image" src="https://github.com/user-attachments/assets/d006f550-03fc-4afe-a70f-d01dc21d59e8" />
+   <img width="1547" height="299" alt="image" src="https://github.com/user-attachments/assets/25ac45b2-2ec8-4b3a-a19f-0e3654f28c0e" />
+
+    
+
 
 
 ### 🛠️ O que é e como funciona o Ngrok?
